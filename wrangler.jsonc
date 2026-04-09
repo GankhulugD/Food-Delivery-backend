@@ -45,7 +45,7 @@
 // }
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "my-app",
+  "name": "food-delivery-backend",
   "main": "src/index.ts",
   "compatibility_date": "2026-03-11",
   "d1_databases": [
